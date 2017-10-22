@@ -128,8 +128,9 @@
 
 
 .demo-layout-transparent .mdl-navigation__link {
-    font: bold 210% monospace;
+    font: bold 150% monospace;
 	text-shadow: 1px 1px 2px black;
+      padding: 0 7px;
 }
 
 .mdl-layout__content--who {
