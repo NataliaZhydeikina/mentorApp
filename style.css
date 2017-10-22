@@ -32,6 +32,7 @@
   height: 300px;
   display: inline-block;
   background: #757474;
+  border-radius: 10%;
 }
 .customers-card-event.mdl-card {
   width: 160px;
