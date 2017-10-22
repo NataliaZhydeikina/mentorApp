@@ -25,19 +25,20 @@
   font-size: 14px;
   font-weight: 500;
 }
+
 .demo-card-event.mdl-card {
   width: 430px;
   margin:10px;
   height: 300px;
   display: inline-block;
-  background: #3E4EB8;
+  background: #757474;
 }
 .customers-card-event.mdl-card {
   width: 160px;
   margin:10px;
   height: 300px;
   display: inline-block;
-  background: #3E4EB8;
+  background: #757474;
 }
 .demo-card-event > .mdl-card__actions, .customers-card-event > .mdl-card__actions {
   border-color: rgba(255, 255, 255, 0.2);
@@ -182,3 +183,9 @@
 a:hover {
 	text-decoration: underline;	
 }
+
+body
+{
+	 background-image: url(images/background_profile.jpg);
+}
+
