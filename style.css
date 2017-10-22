@@ -99,32 +99,32 @@
 
 
 
-	
+
 .mdl-layout__header {
 	overflow: hidden;
 	position: fixed;
 }
-	
+
 .mdl-layout__header-row {
-	background-color: rgba(240, 240, 240, .1);	
+	background-color: rgba(240, 240, 240, .1);
 }
 
 .demo-layout-transparent {
     background: url('images/background.jpg') center / cover;
 
 }
-	
+
 .demo-layout-transparent .mdl-layout__header {
   	color: white;
 }
-	
+
 .demo-layout-transparent .mdl-layout-title {
 	font: bold 300% monospace;
 	text-shadow: 4px 4px 5px black;
 	text-transform: uppercase;
 }
-	
-	
+
+
 .demo-layout-transparent .mdl-navigation__link {
     font: bold 210% monospace;
 	text-shadow: 1px 1px 2px black;
@@ -140,7 +140,7 @@
 	color: black;
 	background-color: rgba(240, 240, 240, .4);
 }
-	
+
 .mdl-layout__content--why {
 	margin: 300px 35px 75px 35px;
 	padding: 15px;
@@ -151,34 +151,44 @@
 	color: black;
 	background-color: rgba(240, 240, 240, .4);
 }
-	
+
 .mdl-layout__content--who span,
 .mdl-layout__content--why span{
 	font-weight: bold;
 }
 
 .mdl-mega-footer {
-	background-color: rgba(240, 240, 240, .3);	
+	background-color: rgba(240, 240, 240, .3);
 }
-	
+
 .mdl-mega-footer span {
 	font-size: 120%;
 	font-weight: bold;
 }
-	
+
 .mdl-mega-footer__one {
 	display: flex;
 	justify-content: flex-start;
 	margin-top: 50px;
 	font: normal 100% monospace;
 }
-	
+
 .mdl-mega-footer__bottom-section {
 	margin-top: -30px;
 	text-align: center;
 	font: normal 100% monospace;
 }
-	
+
 a:hover {
-	text-decoration: underline;	
+	text-decoration: underline;
+}
+.comands-users-container{
+  margin: 5px 10px;
+  width: 230px;
+}
+.comands-container{
+  display:inline-block;
+  border-radius: 10%;
+  width:230px;
+  margin: 50px 40px;
 }
