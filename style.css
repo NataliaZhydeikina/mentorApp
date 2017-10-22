@@ -213,6 +213,13 @@ body
 {
     background: #f5f5f5;
 }
+
+.filters_container_back
+{
+	background:	#DCDCDC;
+	border-radius:40px 10px;
+	padding: 10px;
+	}}
 .mdl-list__item--three-line .mdl-list__item-text-body{
       height: 30px;
       padding: 10px;
